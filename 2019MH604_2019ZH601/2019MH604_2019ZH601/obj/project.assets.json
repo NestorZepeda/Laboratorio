@@ -5840,23 +5840,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nesto\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UNICAES\\laboratorio\\2019MH604_2019ZH601\\2019MH604_2019ZH601\\2019MH604_2019ZH601.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\bateria\\proyecto\\Laboratorio\\2019MH604_2019ZH601\\2019MH604_2019ZH601\\2019MH604_2019ZH601.csproj",
       "projectName": "2019MH604_2019ZH601",
-      "projectPath": "C:\\UNICAES\\laboratorio\\2019MH604_2019ZH601\\2019MH604_2019ZH601\\2019MH604_2019ZH601.csproj",
-      "packagesPath": "C:\\Users\\nesto\\.nuget\\packages\\",
-      "outputPath": "C:\\UNICAES\\laboratorio\\2019MH604_2019ZH601\\2019MH604_2019ZH601\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\bateria\\proyecto\\Laboratorio\\2019MH604_2019ZH601\\2019MH604_2019ZH601\\2019MH604_2019ZH601.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\bateria\\proyecto\\Laboratorio\\2019MH604_2019ZH601\\2019MH604_2019ZH601\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5917,7 +5913,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
